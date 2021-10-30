@@ -1,0 +1,16 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "bmi calculator",
+  "main": "index.js",
+  "repository": "https://github.com/DefyCab/bmi_calculator.git",
+  "author": "DefyCab <love.bellinder@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "superstatic": "^7.1.0"
+  },
+  "scripts": {
+    "start": "superstatic src"
+  }
+}
